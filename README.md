@@ -1,4 +1,4 @@
-<img width="887" alt="Screenshot 2023-12-17 at 12 11 01 AM" src="https://github.com/weijie-lim/BE-FOR-ML-MODEL-BUILDER/assets/47061871/e5494f74-6e25-4604-8184-9e11eeb11ec9"># BE-FOR-ML-MODEL-BUILDER
+## BE-FOR-ML-MODEL-BUILDER
 
 ## Front End Repo
 For more information, look here: https://github.com/weijie-lim/ML-Model-Builder
